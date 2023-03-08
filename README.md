@@ -1,3 +1,3 @@
 # Brian's turtles
 
-My repository called test
+My repository called Brian's turtles
