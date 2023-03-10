@@ -1,3 +1,3 @@
-# Brian's turtles
+# Brian's Birds
 
-My repository called Brian's turtles
+My repository called Brian's birds
